@@ -79,9 +79,8 @@ the [migration guide](MIGRATION-V1.1.0.md).
 The client library is provided as abapGit repository. Proceed as
 follows to clone the ABAP SDK code to your SAP system.
 
-1. Install the [abapGit Plug-In][abapgit_plugin] for ADT.
-2. Use abapGit to clone the ABAP SDK Git repository into your SAP
-   system.
+1. Install Software Component Software Lifecycle Management -> Manage Software Components -> ABAP-SDK-BTP-X .
+2. Select Namespace: For test purposes, usually Z.
 3. Assign the ABAP SDK to the package `ZIBMX` when performing setup of
    the abapGit repository.
 
