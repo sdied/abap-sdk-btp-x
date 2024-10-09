@@ -81,8 +81,6 @@ follows to clone the ABAP SDK code to your SAP system.
 
 1. Install Software Component Software Lifecycle Management -> Manage Software Components -> ABAP-SDK-BTP-X .
 2. Select Namespace: For test purposes, usually Z.
-3. Assign the ABAP SDK to the package `ZIBMX` when performing setup of
-   the abapGit repository.
 
 ## SSL Certificates
 
