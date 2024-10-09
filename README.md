@@ -79,10 +79,10 @@ the [migration guide](MIGRATION-V1.1.0.md).
 The client library is provided as abapGit repository. Proceed as
 follows to clone the ABAP SDK code to your SAP system.
 
-1. Install Software Component Software Lifecycle Management -> Manage Software Components -> ABAP-SDK-BTP-X .
+1. Install Software Component Software Lifecycle Management -> Manage Software Components->Create
   Namespace: Z
-  Name: ABAP-SDK-BTP-X
-  Combination: ZABAP-SDK-BTP-X
+  Name: IBMXX
+  Combination: ZIBMXX
   Description: ABAP code for using IBM watsonx services with SAP BTP
   Repository URL: https://github.com/sdied/abap-sdk-btp-x
   Type: Deployment
