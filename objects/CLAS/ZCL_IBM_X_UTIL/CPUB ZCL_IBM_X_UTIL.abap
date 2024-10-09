@@ -1,4 +1,4 @@
-CLASS zcl_ibm_x_service DEFINITION
+CLASS zcl_ibm_x_util DEFINITION
   PUBLIC
   FINAL
   CREATE PUBLIC .

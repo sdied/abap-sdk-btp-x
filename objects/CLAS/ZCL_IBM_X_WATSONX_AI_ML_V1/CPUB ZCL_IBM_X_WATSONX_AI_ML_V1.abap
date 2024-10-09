@@ -1,0 +1,6 @@
+CLASS zcl_ibm_x_watsonx_ai_ml_v1 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
