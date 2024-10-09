@@ -86,7 +86,14 @@ follows to clone the ABAP SDK code to your SAP system.
   Description: ABAP code for using IBM watsonx services with SAP BTP
   Repository URL: https://github.com/sdied/abap-sdk-btp-x
   Type: Deployment
-
+Check for Create Repository Status Success.
+3. Clone
+   Git User Name: sdied
+   Git Password: Token
+   Branch Selection: main
+   Rollback Mechanism: Enabled - Automatic cleanup in case of errors (default)
+   Options: Latest
+Check for Clone Status Sucess.
 ## SSL Certificates
 
 Communication between SAP and the IBM Cloud is secured by the
