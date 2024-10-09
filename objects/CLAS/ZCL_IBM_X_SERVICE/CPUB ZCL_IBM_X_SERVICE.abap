@@ -1,0 +1,6 @@
+CLASS zcl_ibm_x_service DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.

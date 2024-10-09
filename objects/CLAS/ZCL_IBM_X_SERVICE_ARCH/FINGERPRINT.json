@@ -1,0 +1,46 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC ZCL_IBM_X_SERVICE_ARCH========CCAU.abap",
+   "fingerprint":"g1vb0mdi8ighb2CaxHp6B6rOzTiQ2Z0oCTVvcCQLtnSpp6iydJjdH6K7F9uzlqIyZxd44sZmjYatu0tPc0HGIw=="
+  },
+  {
+   "name":"CINC ZCL_IBM_X_SERVICE_ARCH========CCDEF.abap",
+   "fingerprint":"L68jZOdLUboiujoZQhWNoySNC+JOEN1zQkrQ8q92/vBLiyGUF1qhGRvhNFqMeiczts42dctiJM+3rJgdrOtNhw=="
+  },
+  {
+   "name":"CINC ZCL_IBM_X_SERVICE_ARCH========CCIMP.abap",
+   "fingerprint":"Dy0ZYm5mDJ0KS93B6zNOJjU0U9ZORTYla/xTKHB5o2asgYEQmmlLe0nnFw65dJFGlBO1wLa0rFNcrRv3nGBcAA=="
+  },
+  {
+   "name":"CINC ZCL_IBM_X_SERVICE_ARCH========CCMAC.abap",
+   "fingerprint":"vhUREsMKDs96BQHHL+96Wnodrxk3EocVdxq1UWCctTxdQBycAfGXqIMUetMmSX7lIAJ14M6Kjoov5vxv+DEBeg=="
+  },
+  {
+   "name":"CLAS ZCL_IBM_X_SERVICE_ARCH.asx.json",
+   "fingerprint":"EUXCFEOI3JmWuYAtr9cTS7w9NZaq4Be+BH/sFXu9xHHmHXmoX689TrKnqZwPsZisoulUMy0LTy+6JZYuk8ql/g=="
+  },
+  {
+   "name":"CLSD ZCL_IBM_X_SERVICE_ARCH.abap",
+   "fingerprint":"WHula/w4S87oHkQJvXkV84GvOiVP7Zt9nHxppJzYdYU4y+ahtyjgz0fZfuNGaUoGpSmqHai6aaJ9icvfnxzyaw=="
+  },
+  {
+   "name":"CPRI ZCL_IBM_X_SERVICE_ARCH.abap",
+   "fingerprint":"xVSjAB/IJ6J1D3U9qbOcPhFl+86jbaPYdPMnkms3uzwy5pqf4c1KBRgKnQESJ+nKB6CZNH8ZSR8EWhBuCLTrVg=="
+  },
+  {
+   "name":"CPRO ZCL_IBM_X_SERVICE_ARCH.abap",
+   "fingerprint":"3FuYuSkcrHzm00SjghXASuHONNwaAdofEz01U3fOV37Mr3zMi06nJHTscXnojQrtOJ42YHltk/EZ1TW8oYLCOQ=="
+  },
+  {
+   "name":"CPUB ZCL_IBM_X_SERVICE_ARCH.abap",
+   "fingerprint":"jF6XA1cHmyg4BGmVMVt0URrinAu+RiNMR+Mxd7C3QTeGC+No0dPyoyj9osiHY5kle56M8ZHYxiiJH1pxz6TsxQ=="
+  },
+  {
+   "name":"REPS ZCL_IBM_X_SERVICE_ARCH========CT.abap",
+   "fingerprint":"7eqnCeH2gNRtFEcpcpSQGEemt1yXivyl1mXrbM+MaBPktiJhVXsYWWMpmdwKQ4c0tSn/DBxir18VH790ceK7Qw=="
+  }
+ ],
+ "fingerprintAll":"3x6ptFZryqddlckmZ3ppT0RDxyTOJztJYGScqtUjBvqwQIR3TXO2pTzAUMPUSnCZvk0xeSDAcQr8a/H9QMIm0g=="
+}
