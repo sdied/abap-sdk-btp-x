@@ -1,0 +1,14 @@
+{
+  "name": "zibmxx",
+  "version": "1.0.0",
+  "description": "ZIBMXX",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/B21E78A2984C1EEFA1C79E6D9E64DABC_0"
+  }
+}
